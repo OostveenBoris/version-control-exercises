@@ -1,4 +1,4 @@
-een test notepad foor git.
+a test notepad for git.
 
 workflow git:
 
@@ -6,3 +6,5 @@ git clone <https>
 git status
 git add <filename>
 git commit -m "<message>"
+
+test to check changes in command prompt
