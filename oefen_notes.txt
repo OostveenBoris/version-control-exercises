@@ -7,9 +7,9 @@ git status
 git add <filename>
 git commit -m "<message>"
 
-<<<<<<< HEAD
+
 
 changes in notebook on computer
 =======
 test to check changes in command prompt
->>>>>>> da7436740aa2f4a310851280c59cb3d683a44847
+
